@@ -1,0 +1,7 @@
+
+#GPT4-Turbo
+api_key=YOUR_API_KEY
+api_version="2023-05-15"
+azure_endpoint = YOUR_ENDPOINT
+model="gpt-4"
+
